@@ -1,0 +1,19 @@
+{
+  "name": "chrome-plugin-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbb324/chrome-plugin-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbb324/chrome-plugin-dev/issues"
+  },
+  "homepage": "https://github.com/bbb324/chrome-plugin-dev#readme"
+}
